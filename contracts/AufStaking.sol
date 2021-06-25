@@ -2,19 +2,19 @@
 
 pragma solidity >=0.5.0 <0.7.0;
 
-import "./AMONG.sol";
+import "./AufToken.sol";
 
-contract AMONGStaking {
+contract AufStaking {
     string public name = "Stake AMONG";
     address public owner;
-    AMONG public aufToken;
+    AufToken public aufToken;
 
     address[] public stakers;
     mapping(address => uint) public stakingBalance;
     mapping(address => bool) public hasStaked;
     mapping(address => bool) public isStaking;
 
-    constructor(AMONG _aufToken) public {
+    constructor(AufToken _aufToken) public {
         aufToken = _aufToken;
         
         owner = msg.sender;
