@@ -1,7 +1,11 @@
 { 
-  "name": "AUF Ticket",
+  "name": "Base ATICKET",
   "tokenID": 1,
-  "description": "",
-  "room":
-  "image": ""
+  "description": "Amongus.finance NFT ticket",
+  "room": "",
+  "impostor": 10,
+  "rare": 0,
+  "games": 1,
+  "player_sp": "https://raw.githubusercontent.com/aufgames/aufcore/main/nftURI/player_demo.png" 
+  "image": "https://raw.githubusercontent.com/aufgames/aufcore/main/nftURI/id_demo.png"
 }
