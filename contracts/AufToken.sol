@@ -75,7 +75,7 @@ interface ERC20{
 
 
 
-contract AMONG is Ownable, ERC20{
+contract AufToken is Ownable, ERC20{
     
     using SafeMath for uint256;
 
