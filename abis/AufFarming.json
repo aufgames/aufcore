@@ -28,7 +28,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -41,7 +42,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -60,7 +62,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -79,7 +82,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -92,7 +96,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [],
@@ -105,7 +110,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -124,7 +130,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -143,7 +150,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     },
     {
       "inputs": [
@@ -212,7 +220,7 @@
         "id": 2,
         "nodeType": "ImportDirective",
         "scope": 225,
-        "sourceUnit": 1246,
+        "sourceUnit": 1985,
         "src": "75:24:0",
         "symbolAliases": [],
         "unitAlias": ""
@@ -223,7 +231,7 @@
         "id": 3,
         "nodeType": "ImportDirective",
         "scope": 225,
-        "sourceUnit": 356,
+        "sourceUnit": 1095,
         "src": "100:22:0",
         "symbolAliases": [],
         "unitAlias": ""
@@ -331,7 +339,7 @@
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_contract$_AufToken_$1245",
+              "typeIdentifier": "t_contract$_AufToken_$1984",
               "typeString": "contract AufToken"
             },
             "typeName": {
@@ -339,10 +347,10 @@
               "id": 9,
               "name": "AufToken",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 1245,
+              "referencedDeclaration": 1984,
               "src": "219:8:0",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_AufToken_$1245",
+                "typeIdentifier": "t_contract$_AufToken_$1984",
                 "typeString": "contract AufToken"
               }
             },
@@ -362,7 +370,7 @@
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_contract$_AufNFT_$355",
+              "typeIdentifier": "t_contract$_AufNFT_$1094",
               "typeString": "contract AufNFT"
             },
             "typeName": {
@@ -370,10 +378,10 @@
               "id": 11,
               "name": "AufNFT",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 355,
+              "referencedDeclaration": 1094,
               "src": "249:6:0",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_AufNFT_$355",
+                "typeIdentifier": "t_contract$_AufNFT_$1094",
                 "typeString": "contract AufNFT"
               }
             },
@@ -587,7 +595,7 @@
                       "referencedDeclaration": 10,
                       "src": "518:8:0",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_AufToken_$1245",
+                        "typeIdentifier": "t_contract$_AufToken_$1984",
                         "typeString": "contract AufToken"
                       }
                     },
@@ -602,13 +610,13 @@
                       "referencedDeclaration": 29,
                       "src": "529:9:0",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_AufToken_$1245",
+                        "typeIdentifier": "t_contract$_AufToken_$1984",
                         "typeString": "contract AufToken"
                       }
                     },
                     "src": "518:20:0",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_AufToken_$1245",
+                      "typeIdentifier": "t_contract$_AufToken_$1984",
                       "typeString": "contract AufToken"
                     }
                   },
@@ -633,7 +641,7 @@
                       "referencedDeclaration": 12,
                       "src": "548:6:0",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_AufNFT_$355",
+                        "typeIdentifier": "t_contract$_AufNFT_$1094",
                         "typeString": "contract AufNFT"
                       }
                     },
@@ -648,13 +656,13 @@
                       "referencedDeclaration": 31,
                       "src": "557:7:0",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_AufNFT_$355",
+                        "typeIdentifier": "t_contract$_AufNFT_$1094",
                         "typeString": "contract AufNFT"
                       }
                     },
                     "src": "548:16:0",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_AufNFT_$355",
+                      "typeIdentifier": "t_contract$_AufNFT_$1094",
                       "typeString": "contract AufNFT"
                     }
                   },
@@ -750,7 +758,7 @@
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_contract$_AufToken_$1245",
+                    "typeIdentifier": "t_contract$_AufToken_$1984",
                     "typeString": "contract AufToken"
                   },
                   "typeName": {
@@ -758,10 +766,10 @@
                     "id": 28,
                     "name": "AufToken",
                     "nodeType": "UserDefinedTypeName",
-                    "referencedDeclaration": 1245,
+                    "referencedDeclaration": 1984,
                     "src": "465:8:0",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_AufToken_$1245",
+                      "typeIdentifier": "t_contract$_AufToken_$1984",
                       "typeString": "contract AufToken"
                     }
                   },
@@ -780,7 +788,7 @@
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_contract$_AufNFT_$355",
+                    "typeIdentifier": "t_contract$_AufNFT_$1094",
                     "typeString": "contract AufNFT"
                   },
                   "typeName": {
@@ -788,10 +796,10 @@
                     "id": 30,
                     "name": "AufNFT",
                     "nodeType": "UserDefinedTypeName",
-                    "referencedDeclaration": 355,
+                    "referencedDeclaration": 1094,
                     "src": "485:6:0",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_AufNFT_$355",
+                      "typeIdentifier": "t_contract$_AufNFT_$1094",
                       "typeString": "contract AufNFT"
                     }
                   },
@@ -1068,7 +1076,7 @@
                         "referencedDeclaration": 10,
                         "src": "810:8:0",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_AufToken_$1245",
+                          "typeIdentifier": "t_contract$_AufToken_$1984",
                           "typeString": "contract AufToken"
                         }
                       },
@@ -1079,7 +1087,7 @@
                       "lValueRequested": false,
                       "memberName": "transferFrom",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 1237,
+                      "referencedDeclaration": 1976,
                       "src": "810:21:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_address_$_t_uint256_$returns$_t_bool_$",
@@ -1971,7 +1979,7 @@
                         "referencedDeclaration": 10,
                         "src": "1586:8:0",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_AufToken_$1245",
+                          "typeIdentifier": "t_contract$_AufToken_$1984",
                           "typeString": "contract AufToken"
                         }
                       },
@@ -1982,7 +1990,7 @@
                       "lValueRequested": false,
                       "memberName": "transfer",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 1062,
+                      "referencedDeclaration": 1801,
                       "src": "1586:17:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_uint256_$returns$_t_bool_$",
@@ -2761,7 +2769,7 @@
                                           "referencedDeclaration": 12,
                                           "src": "2324:6:0",
                                           "typeDescriptions": {
-                                            "typeIdentifier": "t_contract$_AufNFT_$355",
+                                            "typeIdentifier": "t_contract$_AufNFT_$1094",
                                             "typeString": "contract AufNFT"
                                           }
                                         },
@@ -2772,7 +2780,7 @@
                                         "lValueRequested": false,
                                         "memberName": "mint",
                                         "nodeType": "MemberAccess",
-                                        "referencedDeclaration": 354,
+                                        "referencedDeclaration": 1093,
                                         "src": "2324:11:0",
                                         "typeDescriptions": {
                                           "typeIdentifier": "t_function_external_nonpayable$_t_address_$returns$__$",
@@ -3164,7 +3172,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 1246,
+          "SourceUnit": 1985,
           "absolutePath": "/Users/dev/work/code/amongus/src/contracts/AufToken.sol",
           "file": "./AufToken.sol",
           "scope": 225,
@@ -3179,7 +3187,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 356,
+          "SourceUnit": 1095,
           "absolutePath": "/Users/dev/work/code/amongus/src/contracts/AufNFT.sol",
           "file": "./AufNFT.sol",
           "scope": 225,
@@ -3305,7 +3313,7 @@
                 "attributes": {
                   "contractScope": null,
                   "name": "AufToken",
-                  "referencedDeclaration": 1245,
+                  "referencedDeclaration": 1984,
                   "type": "contract AufToken"
                 },
                 "id": 9,
@@ -3336,7 +3344,7 @@
                 "attributes": {
                   "contractScope": null,
                   "name": "AufNFT",
-                  "referencedDeclaration": 355,
+                  "referencedDeclaration": 1094,
                   "type": "contract AufNFT"
                 },
                 "id": 11,
@@ -3570,7 +3578,7 @@
                         "attributes": {
                           "contractScope": null,
                           "name": "AufToken",
-                          "referencedDeclaration": 1245,
+                          "referencedDeclaration": 1984,
                           "type": "contract AufToken"
                         },
                         "id": 28,
@@ -3600,7 +3608,7 @@
                         "attributes": {
                           "contractScope": null,
                           "name": "AufNFT",
-                          "referencedDeclaration": 355,
+                          "referencedDeclaration": 1094,
                           "type": "contract AufNFT"
                         },
                         "id": 30,
@@ -4035,7 +4043,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "transferFrom",
-                              "referencedDeclaration": 1237,
+                              "referencedDeclaration": 1976,
                               "type": "function (address,address,uint256) external returns (bool)"
                             },
                             "children": [
@@ -5050,7 +5058,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "transfer",
-                              "referencedDeclaration": 1062,
+                              "referencedDeclaration": 1801,
                               "type": "function (address,uint256) external returns (bool)"
                             },
                             "children": [
@@ -6226,7 +6234,7 @@
                                                       "isPure": false,
                                                       "lValueRequested": false,
                                                       "member_name": "mint",
-                                                      "referencedDeclaration": 354,
+                                                      "referencedDeclaration": 1093,
                                                       "type": "function (address) external"
                                                     },
                                                     "children": [
@@ -6327,9 +6335,29 @@
     "name": "solc",
     "version": "0.6.12+commit.27d51765.Emscripten.clang"
   },
-  "networks": {},
+  "networks": {
+    "1": {
+      "events": {},
+      "links": {},
+      "address": "0xBd7f800B7E54D3f78043A10d53Cc26FC42A3c697",
+      "transactionHash": "0x56f087387779db415db5f08ce3d138509d8fc18f65d88cc85f22da46ab67b7a8"
+    },
+    "4": {
+      "events": {},
+      "links": {},
+      "address": "0xBb0686e27D75e08Ec39367C2e0d8650Beeb6Eb23",
+      "transactionHash": "0x0feb2ff0c3ecf2c70dce0c6acf78bae687320d5cbc5f5c53faaaf14afdb8e5b0"
+    },
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xC9248439f6Ec826A9dfA2950497fEf3a55760145",
+      "transactionHash": "0xdaa55d90aaddeb2ceba30db01683feb41da1280180fd70caaf55ca623153b2b8"
+    }
+  },
   "schemaVersion": "3.3.4",
-  "updatedAt": "2021-06-25T17:01:03.524Z",
+  "updatedAt": "2021-07-31T06:50:58.513Z",
+  "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
     "methods": {},
