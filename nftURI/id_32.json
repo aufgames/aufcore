@@ -1,5 +1,5 @@
 { 
-  "name": "Base ATICKET",
+  "name": "ATICKET SE",
   "tokenID": 32,
   "description": "Amongus.finance NFT ticket",
   "room": "",
@@ -7,5 +7,5 @@
   "rare": 0,
   "games": 1,
   "player_sp": "https://raw.githubusercontent.com/aufgames/aufcore/main/nftURI/player_demo.png", 
-  "image": "https://raw.githubusercontent.com/aufgames/aufcore/main/nftURI/id_demo.png"
+  "image": "https://raw.githubusercontent.com/aufgames/aufcore/main/nftURI/id_bsc.png"
 }
